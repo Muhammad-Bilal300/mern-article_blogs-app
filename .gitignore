@@ -1,0 +1,6 @@
+backend/.env
+client/.env
+.idea
+backend/node_modules
+client/node_modules
+backend/uploads/*
